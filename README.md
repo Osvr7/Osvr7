@@ -33,6 +33,8 @@ More: [ATM system (Java Swing)](https://github.com/Osvr7/java-swing-atm) · [Int
 
 ### 🏅 Highlights
 
-- Dean's List · **4.00 GPA**
-- **UGRF 2026** research presenter (paper and poster)
-- Leader of the Effat Futsal Club · Shura Council President nominee
+- **President's List** 2025–2026 · Dean's List · **4.00 GPA**
+- **Vice President, IEEE Computer Society** at Effat University
+- **UGRF 2026** research presenter (7th Effat Undergraduate Research Forum)
+- Mathematics for ML & Data Science specialization (DeepLearning.AI) · IBM Python for Data Science, AI & Development
+- 163 certified volunteer hours · Leader of the Effat Futsal Club · Shura Council President nominee
