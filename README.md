@@ -1,6 +1,6 @@
 <h1>Hi, I'm Osama Abutaha 👋</h1>
 
-**Computer Science senior on the Artificial Intelligence track at Effat University, Jeddah.**
+**Co-Founder & CTO of [Hroofi](https://hroofi.com) · Computer Science senior on the Artificial Intelligence track at Effat University, Jeddah.**
 I build agent-based simulations and machine-learning models, plus the software and interfaces that make them usable.
 
 🌐 **Portfolio:** [osvr7.github.io](https://osvr7.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/osama-abutaha) · ✉️ osamaabutaha1@gmail.com
@@ -27,6 +27,7 @@ More: [ATM system (Java Swing)](https://github.com/Osvr7/java-swing-atm) · [Int
 
 ### 🌱 Right now (Fall 2026)
 
+- Building [Hroofi](https://hroofi.com) as Co-Founder & CTO: hands-on AI, presentation and entrepreneurship programs for children aged 8+
 - Deep Learning: lightweight real-time sign-language recognition
 - Machine Learning: research paper on SMS spam detection
 - Operating Systems · Numerical Methods
@@ -34,6 +35,7 @@ More: [ATM system (Java Swing)](https://github.com/Osvr7/java-swing-atm) · [Int
 ### 🏅 Highlights
 
 - **President's List** 2025–2026 · Dean's List · **4.00 GPA**
+- Full-Stack AI Software Engineering co-op at **Banan** (May–Aug 2026)
 - **Vice President, IEEE Computer Society** at Effat University
 - **UGRF 2026** research presenter (7th Effat Undergraduate Research Forum)
 - Mathematics for ML & Data Science specialization (DeepLearning.AI) · IBM Python for Data Science, AI & Development
