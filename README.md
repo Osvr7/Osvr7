@@ -1,6 +1,6 @@
 <h1>Hi, I'm Osama Abutaha 👋</h1>
 
-**Co-Founder & CTO of [Hroofi](https://hroofi.com) · Computer Science senior on the Artificial Intelligence track at Effat University, Jeddah.**
+**Computer Science senior on the Artificial Intelligence track at Effat University, Jeddah.**
 I build agent-based simulations and machine-learning models, plus the software and interfaces that make them usable.
 
 🌐 **Portfolio:** [osvr7.github.io](https://osvr7.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/osama-abutaha) · ✉️ osamaabutaha1@gmail.com
@@ -18,6 +18,12 @@ I build agent-based simulations and machine-learning models, plus the software a
 
 More: [ATM system (Java Swing)](https://github.com/Osvr7/java-swing-atm) · [Inter-university network (Packet Tracer)](https://github.com/Osvr7/inter-university-network) · [SVD image compression](https://github.com/Osvr7/svd-image-compression) · [Postfix evaluator (C++)](https://github.com/Osvr7/postfix-evaluator-cpp)
 
+### 💼 Experience
+
+- **Co-Founder & CTO, [Hroofi](https://hroofi.com)** (current): EdTech startup teaching children aged 8+ AI, presentation and entrepreneurship through hands-on programs
+- **Full-Stack AI Software Engineering Trainee (Co-op), Banan** (May–Aug 2026): full-stack features, APIs, generative AI learning features, testing and performance
+- **Course Assistant, Statistics (GSTA 181), Effat University** (2024–present)
+
 ### 🧰 Tools I've shipped with
 
 **Languages:** Python · JavaScript · Java · C++ · SQL · PHP · HTML/CSS
@@ -27,7 +33,6 @@ More: [ATM system (Java Swing)](https://github.com/Osvr7/java-swing-atm) · [Int
 
 ### 🌱 Right now (Fall 2026)
 
-- Building [Hroofi](https://hroofi.com) as Co-Founder & CTO: hands-on AI, presentation and entrepreneurship programs for children aged 8+
 - Deep Learning: lightweight real-time sign-language recognition
 - Machine Learning: research paper on SMS spam detection
 - Operating Systems · Numerical Methods
@@ -35,8 +40,7 @@ More: [ATM system (Java Swing)](https://github.com/Osvr7/java-swing-atm) · [Int
 ### 🏅 Highlights
 
 - **President's List** 2025–2026 · Dean's List · **4.00 GPA**
-- Full-Stack AI Software Engineering co-op at **Banan** (May–Aug 2026)
 - **Vice President, IEEE Computer Society** at Effat University
 - **UGRF 2026** research presenter (7th Effat Undergraduate Research Forum)
 - Mathematics for ML & Data Science specialization (DeepLearning.AI) · IBM Python for Data Science, AI & Development
-- 163 certified volunteer hours · Leader of the Effat Futsal Club · Shura Council President nominee
+- 163 certified volunteer hours · Leader of the Effat Futsal Club · Queen Effat Citizenship Award nominee
